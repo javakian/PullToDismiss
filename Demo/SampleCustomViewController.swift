@@ -2,8 +2,8 @@
 //  SampleCustomViewController.swift
 //  Demo
 //
-//  Created by Suguru Kishimoto on 11/17/16.
-//  Copyright © 2016 Suguru Kishimoto. All rights reserved.
+//  Created by James Avakian on 11/15/16.
+//  Copyright © 2016 Optical Automation, LLC. All rights reserved.
 //
 
 import UIKit
